@@ -38,7 +38,7 @@ With our dataset, businesses can improve their sales strategies, enhance custome
 5. **AI-Driven Product Recommendations**: Create personalized product recommendation systems to increase customer engagement and drive sales.
 
 ### Data Volume:  
-Estimated data volume: **200 million records** per week.
+Estimated data volume: **100 million records** per week.
 
 ### Data Quality:  
 High - Data is carefully extracted, cleaned, and formatted to ensure optimal AI training performance.

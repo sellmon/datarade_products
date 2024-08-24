@@ -38,7 +38,7 @@ This dataset is perfect for businesses and developers aiming to leverage AI for 
 5. **Customer Engagement**: Enhance customer interaction through AI-powered recommendations and service improvements.
 
 ### Data Volume:
-Estimated data volume: **4 million records** per week.
+Estimated data volume: **2 million records** per week.
 
 ### Data Quality:
 High - Data is thoroughly extracted, cleaned, and structured for optimal performance in AI and ML applications related to business analytics and review management.

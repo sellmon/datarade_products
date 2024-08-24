@@ -38,7 +38,7 @@ This dataset is designed to support businesses and developers in creating AI-dri
 5. **Customer Engagement**: Develop AI-driven tools to enhance customer engagement and streamline the process of booking home services.
 
 ### Data Volume:
-Estimated data volume: **10 million records** per week.
+Estimated data volume: **1 million records** per week.
 
 ### Data Quality:
 High - Data is meticulously extracted, cleaned, and formatted to ensure superior performance for AI applications in home services and contractor management.

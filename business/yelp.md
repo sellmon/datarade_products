@@ -38,7 +38,7 @@ This dataset is ideal for businesses and developers looking to enhance their loc
 5. **Customer Engagement**: Improve user engagement by providing personalized recommendations and insights based on reviews.
 
 ### Data Volume:
-Estimated data volume: **50 million records** per week.
+Estimated data volume: **10 million records** per week.
 
 ### Data Quality:
 High - Data is carefully curated, cleaned, and formatted to ensure optimal performance for AI training and review analysis.

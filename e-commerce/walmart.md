@@ -36,7 +36,7 @@ With our Walmart dataset, you can enhance your sales strategies, optimize invent
 5. **Personalized Recommendations**: Create AI-driven recommendation systems to boost customer engagement and drive sales.
 
 ### Data Volume:  
-Estimated data volume: **50 million records** per week.
+Estimated data volume: **10 million records** per week.
 
 ### Data Quality:  
 High - Data is meticulously cleaned, structured, and prepared to ensure optimal performance for AI training.
