@@ -62,7 +62,6 @@ High - Each image is validated, annotated for accuracy, and ensures freshness an
 | Lighting Condition | Text   | Description of lighting when the photo was taken          | "Indoor, Bright Light"        |
 | Capture Device     | Text   | Type of mobile device used for capturing the image        | "iPhone 13 Pro"               |
 | Timestamp          | Date   | Date and time when the image was captured                 | "2024-12-01 14:32:10"         |
-| Annotation Format  | Text   | Format used for storing annotations                       | "COCO JSON"                   |
 | Pose Angle         | Float  | Angle of the subject's face relative to the camera        | "15 degrees"                  |
 | Background Type    | Text   | Description of the background (plain, cluttered, etc.)    | "Plain white wall"            |
 | Additional Metadata| Text   | Other optional attributes based on specific requests      | "Head tilt: 10 degrees"       |
